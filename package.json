@@ -1,0 +1,19 @@
+{
+  "name": "memory_game_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fran1893/memory_game_docker.git"
+  },
+  "author": "Francisco Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fran1893/memory_game_docker/issues"
+  },
+  "homepage": "https://github.com/fran1893/memory_game_docker#readme"
+}
